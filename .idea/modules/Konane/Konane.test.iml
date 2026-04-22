@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="root:test [file:/C:/Users/Utilizador/Desktop/Konane/]" external.linked.project.path="$MODULE_DIR$/../../.." external.root.project.path="$MODULE_DIR$/../../.." external.system.id="SBT" external.system.module.type="sbtSourceSet" type="JAVA_MODULE" version="4">
+  <component name="DisplayModuleName">
+    <option name="name" value="Konane.test" />
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_25">
+    <output-test url="file://$MODULE_DIR$/../../../target/scala-3.3.4/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../src/test" />
+    <content url="file://$MODULE_DIR$/../../../target/scala-3.3.4/resource_managed/test" />
+    <content url="file://$MODULE_DIR$/../../../target/scala-3.3.4/src_managed/test" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sbt: scala-sdk-3.3.4" level="project" />
+    <orderEntry type="module" module-name="Konane.main" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala3-library_3:3.3.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-parallel-collections_3:1.2.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalafx:scalafx_3:22.0.0-R33:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.13.14:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.openjfx:javafx-base:22:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.openjfx:javafx-controls:22:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.openjfx:javafx-fxml:22:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.openjfx:javafx-graphics:22:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.openjfx:javafx-media:22:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.openjfx:javafx-swing:22:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.openjfx:javafx-web:22:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.openjfx:javafx-base:22:win:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.openjfx:javafx-controls:22:win:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.openjfx:javafx-fxml:22:win:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.openjfx:javafx-graphics:22:win:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.openjfx:javafx-media:22:win:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.openjfx:javafx-swing:22:win:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.openjfx:javafx-web:22:win:jar" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="Konane.main" />
+</module>

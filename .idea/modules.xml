@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Konane.iml" filepath="$PROJECT_DIR$/Konane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Konane/Konane.iml" filepath="$PROJECT_DIR$/.idea/modules/Konane/Konane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Konane/Konane.Konane-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Konane/Konane.Konane-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Konane/Konane.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Konane/Konane.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Konane/Konane.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Konane/Konane.test.iml" />
     </modules>
   </component>
 </project>
