@@ -1,6 +1,3 @@
-package konane
-
-
 object Main:
   def main(args: Array[String]): Unit =
     val rand = MyRandom()
